@@ -1,6 +1,6 @@
 *start
 
-[title name="走れメロス"]
+[title name="RPG桃太郎"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
@@ -70,6 +70,8 @@
 
 *tag_true
 [cm]
+
+[bg storage=glowing-city-skyline-burning-with-dangerous-flames-generated-by-ai.jpg time=500]
 おじいさんの嘘に絶望しながらも、桃太郎は戦い続けることを決意します。[l][r]
 必ず、この戦いの果てに希望の光があると信じて。[l][r]
 [cm]
